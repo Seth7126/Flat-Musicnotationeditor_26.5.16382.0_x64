@@ -1,0 +1,3 @@
+import{Hk as f}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="0fa7bdba-2e5c-4e79-bfdd-86132b9f2531",e._sentryDebugIdIdentifier="sentry-dbid-0fa7bdba-2e5c-4e79-bfdd-86132b9f2531")}catch{}})();var s=(e,d,a)=>(r,{slots:n})=>f("svg",{"data-icon":e,"data-version":"v2",class:[d?.class||""],...d},[...a.map(t=>f(...t)),...n.default?[n.default()]:[]]);export{s as t};
+
+//# sourceMappingURL=createVueComponent-wHKX9xjx.js.map

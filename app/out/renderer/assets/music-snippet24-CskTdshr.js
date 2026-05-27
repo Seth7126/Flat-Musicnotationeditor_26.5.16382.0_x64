@@ -1,0 +1,3 @@
+import{r}from"./rolldown-runtime-mFd2d86E.js";import{t as n}from"./createVueComponent-wHKX9xjx.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="e721c720-0ca1-4581-9ebb-4a9871f0c57a",e._sentryDebugIdIdentifier="sentry-dbid-e721c720-0ca1-4581-9ebb-4a9871f0c57a")}catch{}})();var d=r({default:()=>a}),a=n("musicSnippet24",{xmlns:"http://www.w3.org/2000/svg",width:"24",height:"24",viewBox:"0 0 24 24",fill:"currentcolor"},[["g",{"clip-path":"url(#a)"}],["defs",{}]]);export{d as n,a as t};
+
+//# sourceMappingURL=music-snippet24-CskTdshr.js.map

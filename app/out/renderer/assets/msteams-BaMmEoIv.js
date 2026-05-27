@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="466debdf-0057-4a43-a927-0024b3362788",e._sentryDebugIdIdentifier="sentry-dbid-466debdf-0057-4a43-a927-0024b3362788")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=msteams-BaMmEoIv.js.map

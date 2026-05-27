@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="3ad8b7ee-20c1-4a7a-8846-e48311e53882",e._sentryDebugIdIdentifier="sentry-dbid-3ad8b7ee-20c1-4a7a-8846-e48311e53882")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=desktop-DApolWZG.js.map

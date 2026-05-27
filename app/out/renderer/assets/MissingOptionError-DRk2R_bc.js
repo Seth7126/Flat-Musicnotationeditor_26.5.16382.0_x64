@@ -1,0 +1,3 @@
+import{n as i}from"./rolldown-runtime-mFd2d86E.js";import{Gs as n,Us as s}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="ba5b8cfb-1122-4994-9105-3ac530e5caba",e._sentryDebugIdIdentifier="sentry-dbid-ba5b8cfb-1122-4994-9105-3ac530e5caba")}catch{}})();var t,d=i((()=>{n(),t=class extends s{constructor(e){const r=`The option [${e}] is missing.`;super(r),Object.defineProperty(this,"optionName",{enumerable:!0,configurable:!0,writable:!0,value:void 0}),this.name="MissingOptionError",this.optionName=e}}}));export{d as n,t};
+
+//# sourceMappingURL=MissingOptionError-DRk2R_bc.js.map

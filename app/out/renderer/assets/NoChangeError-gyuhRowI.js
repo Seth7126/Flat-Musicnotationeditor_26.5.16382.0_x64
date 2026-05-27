@@ -1,0 +1,3 @@
+import{n}from"./rolldown-runtime-mFd2d86E.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="ae333a7f-9e50-4c34-9955-6309d9c2a7a6",e._sentryDebugIdIdentifier="sentry-dbid-ae333a7f-9e50-4c34-9955-6309d9c2a7a6")}catch{}})();var a,t=n((()=>{a=class extends Error{constructor(e){super(e||"This operation has no effect"),this.name="NoChangeError"}}}));export{t as n,a as t};
+
+//# sourceMappingURL=NoChangeError-gyuhRowI.js.map

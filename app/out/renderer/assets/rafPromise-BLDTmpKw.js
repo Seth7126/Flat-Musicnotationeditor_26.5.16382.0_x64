@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="ed38aa98-c023-4c13-a6f4-5bf083e216d6",e._sentryDebugIdIdentifier="sentry-dbid-ed38aa98-c023-4c13-a6f4-5bf083e216d6")}catch{}})();function r(){return new Promise(e=>{requestAnimationFrame(e)})}export{r as t};
+
+//# sourceMappingURL=rafPromise-BLDTmpKw.js.map

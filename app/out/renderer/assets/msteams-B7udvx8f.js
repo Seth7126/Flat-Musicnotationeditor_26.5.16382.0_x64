@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="40401041-bb16-4619-b0bc-01d1b0151c6a",e._sentryDebugIdIdentifier="sentry-dbid-40401041-bb16-4619-b0bc-01d1b0151c6a")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=msteams-B7udvx8f.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="6d44d70b-8f35-4974-b9b1-b7911bf31a2e",e._sentryDebugIdIdentifier="sentry-dbid-6d44d70b-8f35-4974-b9b1-b7911bf31a2e")}catch{}})();const s=require("./main-D_Q6PttS.js"),t=require("./TransportProvider-nA_tbfpV.js"),o=require("./operations-3RyQrDAm.js");var n={postScoreFretboard:o.createOperation("postScoreFretboard",e=>t.getTransport().post(`${t.getTransport().apiv2baseurl}/me/editor/scoreFretboard/`,e))};exports.default=n;
+
+//# sourceMappingURL=scoreFretboard-DWjVZiYS.js.map

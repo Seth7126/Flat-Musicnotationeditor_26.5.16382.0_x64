@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="85697a8b-1412-4f10-9b2c-235e4e9eb9db",e._sentryDebugIdIdentifier="sentry-dbid-85697a8b-1412-4f10-9b2c-235e4e9eb9db")}catch{}})();var b={};export{b as default};
+
+//# sourceMappingURL=quizzes-Cwy1TvT7.js.map

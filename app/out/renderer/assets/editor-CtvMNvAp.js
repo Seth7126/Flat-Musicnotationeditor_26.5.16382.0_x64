@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="035325b3-334c-456c-824b-b31bdb578bfc",e._sentryDebugIdIdentifier="sentry-dbid-035325b3-334c-456c-824b-b31bdb578bfc")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=editor-CtvMNvAp.js.map

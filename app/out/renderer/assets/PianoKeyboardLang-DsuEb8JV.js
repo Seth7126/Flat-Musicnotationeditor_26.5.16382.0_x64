@@ -1,0 +1,3 @@
+import{t as s}from"./getVoice-BjXymRvf.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="0e5d6bf8-9bb8-4f9d-aa07-0e28e2afd8c6",e._sentryDebugIdIdentifier="sentry-dbid-0e5d6bf8-9bb8-4f9d-aa07-0e28e2afd8c6")}catch{}})();function l(e,a){return s(e,a).getNbNotes()}var r="default",t="solfege",n="solfege-local",d="english",f="japanese",o="german",g=[r,t,n,d,f,o];export{g as a,l as c,f as i,d as n,t as o,o as r,n as s,r as t};
+
+//# sourceMappingURL=PianoKeyboardLang-DsuEb8JV.js.map

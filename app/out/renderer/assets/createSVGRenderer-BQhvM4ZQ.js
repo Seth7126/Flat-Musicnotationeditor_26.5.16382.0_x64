@@ -1,0 +1,3 @@
+import"./vue-data-BfauxDF1.js";import{t as n}from"./SvgRenderer-DocpkLRZ.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},f=new e.Error().stack;f&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[f]="19f8afc0-35d7-4eef-94ac-c0f0c25feeef",e._sentryDebugIdIdentifier="sentry-dbid-19f8afc0-35d7-4eef-94ac-c0f0c25feeef")}catch{}})();function o(e){return new n(e)}export{o as default};
+
+//# sourceMappingURL=createSVGRenderer-BQhvM4ZQ.js.map

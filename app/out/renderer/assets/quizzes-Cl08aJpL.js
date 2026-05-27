@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="07967412-f244-4bda-8b54-776052423215",e._sentryDebugIdIdentifier="sentry-dbid-07967412-f244-4bda-8b54-776052423215")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=quizzes-Cl08aJpL.js.map

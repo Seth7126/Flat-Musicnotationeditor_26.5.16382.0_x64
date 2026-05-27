@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="3f99a871-1454-455e-9108-72623eac6e39",e._sentryDebugIdIdentifier="sentry-dbid-3f99a871-1454-455e-9108-72623eac6e39")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=notifications-DlAKCiJk.js.map

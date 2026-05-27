@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="57f925ca-5119-4340-9821-3c15a3db06d1",e._sentryDebugIdIdentifier="sentry-dbid-57f925ca-5119-4340-9821-3c15a3db06d1")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=msteams-CDfaigDK.js.map

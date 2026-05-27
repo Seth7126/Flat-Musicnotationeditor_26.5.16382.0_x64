@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="c357dc7f-2994-4556-8cf4-1919b79bc605",e._sentryDebugIdIdentifier="sentry-dbid-c357dc7f-2994-4556-8cf4-1919b79bc605")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=desktop-CiUookMn.js.map

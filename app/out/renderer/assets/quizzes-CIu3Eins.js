@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="b1e59223-e8b7-4127-9423-acc643138d29",e._sentryDebugIdIdentifier="sentry-dbid-b1e59223-e8b7-4127-9423-acc643138d29")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=quizzes-CIu3Eins.js.map

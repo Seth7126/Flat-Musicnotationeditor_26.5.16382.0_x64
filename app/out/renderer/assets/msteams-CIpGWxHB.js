@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="b4d5b061-0a14-4dd2-9963-749c86691cf2",e._sentryDebugIdIdentifier="sentry-dbid-b4d5b061-0a14-4dd2-9963-749c86691cf2")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=msteams-CIpGWxHB.js.map

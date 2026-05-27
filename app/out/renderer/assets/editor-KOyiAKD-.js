@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="7ecb1391-9de3-437d-93ce-37e8a5943241",e._sentryDebugIdIdentifier="sentry-dbid-7ecb1391-9de3-437d-93ce-37e8a5943241")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=editor-KOyiAKD-.js.map

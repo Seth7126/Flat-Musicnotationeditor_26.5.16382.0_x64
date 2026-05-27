@@ -1,0 +1,3 @@
+import{vk as s,xO as n,yj as f}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="8faba23b-2b58-49a7-8ae2-85fff3f0be53",e._sentryDebugIdIdentifier="sentry-dbid-8faba23b-2b58-49a7-8ae2-85fff3f0be53")}catch{}})();var l=n("scoreCollaborators",()=>{const e=f({});function a({uid:o,collaborator:r}){Object.assign(e,{[o]:r})}return{collaborators:e,setCollaborator:a,onlineCollaborators:s(()=>{const o={},r=e;return Object.keys(r).forEach(t=>{r[t].session&&(o[t]=r[t])}),o})}});export{l as t};
+
+//# sourceMappingURL=scoreCollaborators-DJ-5m18u.js.map

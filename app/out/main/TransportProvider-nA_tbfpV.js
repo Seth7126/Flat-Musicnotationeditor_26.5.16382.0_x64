@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="f0ffaeba-5e4b-4987-9553-9ec036a30852",e._sentryDebugIdIdentifier="sentry-dbid-f0ffaeba-5e4b-4987-9553-9ec036a30852")}catch{}})();var t=null;function r(e){t=e}function a(){if(!t)throw new Error("@flat/api-client: Transport not initialized. Call setTransport() before making API calls.");return t}Object.defineProperty(exports,"getTransport",{enumerable:!0,get:function(){return a}});Object.defineProperty(exports,"setTransport",{enumerable:!0,get:function(){return r}});
+
+//# sourceMappingURL=TransportProvider-nA_tbfpV.js.map

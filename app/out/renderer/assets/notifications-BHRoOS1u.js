@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="4b709bad-1ebc-48fe-8e28-9435d40ea3ec",e._sentryDebugIdIdentifier="sentry-dbid-4b709bad-1ebc-48fe-8e28-9435d40ea3ec")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=notifications-BHRoOS1u.js.map

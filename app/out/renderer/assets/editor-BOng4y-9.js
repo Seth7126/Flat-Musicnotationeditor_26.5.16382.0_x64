@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="caa2a97a-45ce-4bfd-9960-1ac04d27aec3",e._sentryDebugIdIdentifier="sentry-dbid-caa2a97a-45ce-4bfd-9960-1ac04d27aec3")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=editor-BOng4y-9.js.map

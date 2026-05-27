@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="7322a0da-c1db-41c9-92df-9e332452db07",e._sentryDebugIdIdentifier="sentry-dbid-7322a0da-c1db-41c9-92df-9e332452db07")}catch{}})();var t={title:"楽譜作成・オンライン共同編集ソフト - Flat"},n={meta:t,"browser-upgrade":{"help-support":"ヘルプが必要ですか？メールでお問い合わせください:",explain:"Flatは楽譜作成やオーディオ再生、MIDIデバイスのサポートなどのモダンウェブテクノロジーを使用しています。最良の体験を得る為に、あなたのウェブブラウザをアップグレードしてください。",title:"お使いのWebブラウザをアップデートしてください"}};export{n as default,t as meta};
+
+//# sourceMappingURL=site-CGQmF-8_.js.map

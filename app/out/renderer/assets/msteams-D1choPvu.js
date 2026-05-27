@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="f2ee0fa8-75a7-4b85-ab7e-1d000374a520",e._sentryDebugIdIdentifier="sentry-dbid-f2ee0fa8-75a7-4b85-ab7e-1d000374a520")}catch{}})();var f={};export{f as default};
+
+//# sourceMappingURL=msteams-D1choPvu.js.map

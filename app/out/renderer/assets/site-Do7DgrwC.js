@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="93ed6f54-8d7d-4b2b-ac87-cc5363e9948f",e._sentryDebugIdIdentifier="sentry-dbid-93ed6f54-8d7d-4b2b-ac87-cc5363e9948f")}catch{}})();var t={title:"온라인 협업 기보 소프트웨어 - Flat"},n={"browser-upgrade":{"help-support":"도움이 필요하신가요? 이메일로 문의해 주세요:",title:"이제 웹 브라우저를 업그레이드할 시간이에요.",explain:"Flat은 최신 웹 기술을 사용해 악보를 사보하고, 오디오를 렌더링하여 재생하며, MIDI 장치를 지원합니다. 이러한 기능을 원활히 이용하시려면 웹 브라우저를 업그레이드해 주세요."},meta:t};export{n as default,t as meta};
+
+//# sourceMappingURL=site-Do7DgrwC.js.map

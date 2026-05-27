@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="6f817f09-cdea-4bc0-a8e5-bb3c69db2233",e._sentryDebugIdIdentifier="sentry-dbid-6f817f09-cdea-4bc0-a8e5-bb3c69db2233")}catch{}})();var d={title:"在线协作音乐记谱软件 - Flat"},b={meta:d,"browser-upgrade":{explain:"Flat 采用现代 Web 技术来排版乐谱、播放音频，并支持 MIDI 设备。为获得更佳体验，请升级您的网页浏览器。",title:"是时候升级您的浏览器了","help-support":"需要帮助吗？通过电子邮件联系我们："}};export{b as default,d as meta};
+
+//# sourceMappingURL=site-Bm0kp9vn.js.map

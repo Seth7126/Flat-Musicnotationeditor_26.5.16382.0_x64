@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="b6150ab5-aa7b-4c54-bf8b-a4ec93ffbcc4",e._sentryDebugIdIdentifier="sentry-dbid-b6150ab5-aa7b-4c54-bf8b-a4ec93ffbcc4")}catch{}})();var f={};export{f as default};
+
+//# sourceMappingURL=msteams-C_Pobtpd.js.map

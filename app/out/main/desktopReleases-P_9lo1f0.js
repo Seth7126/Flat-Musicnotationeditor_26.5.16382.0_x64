@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="f27deae3-51c1-4a97-972c-fba72936a09f",e._sentryDebugIdIdentifier="sentry-dbid-f27deae3-51c1-4a97-972c-fba72936a09f")}catch{}})();const o=require("./main-D_Q6PttS.js"),t=require("./TransportProvider-nA_tbfpV.js"),a=require("./operations-3RyQrDAm.js");var s=a.createOperation("getLatestDesktopRelease",e=>t.getTransport().get(`${t.getTransport().apiv2baseurl}/releases/desktop/${e}`));exports.getLatestDesktopRelease=s;
+
+//# sourceMappingURL=desktopReleases-P_9lo1f0.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="eb17a3c7-490b-4061-91be-9080b5b50195",e._sentryDebugIdIdentifier="sentry-dbid-eb17a3c7-490b-4061-91be-9080b5b50195")}catch{}})();var a={title:"線上協作記譜軟體 - Flat"},d={meta:a,"browser-upgrade":{explain:"Flat 採用現代網頁技術進行刻譜與排版、提供音訊播放，並支援 MIDI 裝置。若要享有完整體驗，請更新您的網頁瀏覽器。",title:"是時候升級您的瀏覽器了","help-support":"需要協助嗎？請透過電子郵件聯絡我們："}};export{d as default,a as meta};
+
+//# sourceMappingURL=site-m_KRl1QB.js.map

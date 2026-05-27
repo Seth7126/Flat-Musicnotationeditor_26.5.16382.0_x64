@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="7473e77d-8598-4ab0-af21-e2a367bd0853",e._sentryDebugIdIdentifier="sentry-dbid-7473e77d-8598-4ab0-af21-e2a367bd0853")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=desktop-D2zysbGS.js.map

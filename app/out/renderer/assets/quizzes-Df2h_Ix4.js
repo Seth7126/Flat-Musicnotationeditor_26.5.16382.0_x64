@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="bd6fb657-5e75-48c8-a43b-7cdb0fb4a74c",e._sentryDebugIdIdentifier="sentry-dbid-bd6fb657-5e75-48c8-a43b-7cdb0fb4a74c")}catch{}})();var f={};export{f as default};
+
+//# sourceMappingURL=quizzes-Df2h_Ix4.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="71bccd39-954d-4710-a2ee-40afd3517636",e._sentryDebugIdIdentifier="sentry-dbid-71bccd39-954d-4710-a2ee-40afd3517636")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=msteams-C-HYdUDU.js.map

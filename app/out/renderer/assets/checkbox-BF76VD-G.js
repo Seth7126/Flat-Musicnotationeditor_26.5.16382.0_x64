@@ -1,0 +1,3 @@
+import{t}from"./Checkbox-BS6m6Exf.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="610cd65c-e1b3-47f0-bd24-95df68ce250d",e._sentryDebugIdIdentifier="sentry-dbid-610cd65c-e1b3-47f0-bd24-95df68ce250d")}catch{}})();var o=t;export{o as t};
+
+//# sourceMappingURL=checkbox-BF76VD-G.js.map

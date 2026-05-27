@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},i=new e.Error().stack;i&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[i]="b9aa2afd-2ff6-4192-a996-08f11b3da374",e._sentryDebugIdIdentifier="sentry-dbid-b9aa2afd-2ff6-4192-a996-08f11b3da374")}catch{}})();var a={KeyQ:"a",KeyA:"q",KeyW:"z",KeyZ:"w",Semicolon:"m",KeyM:",",Backquote:"²",Digit1:"&",Digit2:"é",Digit3:'"',Digit4:"'",Digit5:"(",Digit6:"-",Digit7:"è",Digit8:"_",Digit9:"ç",Digit0:"à",Minus:")",Equal:"=",BracketLeft:"^",BracketRight:"$",Backslash:"*",Quote:"ù",Comma:";",Period:":",Slash:"!"};export{a as default};
+
+//# sourceMappingURL=azerty-fr-BvJOcjln.js.map

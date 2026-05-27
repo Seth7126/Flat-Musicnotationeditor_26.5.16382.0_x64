@@ -1,0 +1,3 @@
+import{o as n}from"./FontService-uCW9IirO.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="f37d45fa-2ea9-4000-864e-97276f3adee5",e._sentryDebugIdIdentifier="sentry-dbid-f37d45fa-2ea9-4000-864e-97276f3adee5")}catch{}})();function d(){const e=n();return t=>e.getBinaryFontUrlFromEntry(t)}export{d as t};
+
+//# sourceMappingURL=fonts-C10zlyFs.js.map

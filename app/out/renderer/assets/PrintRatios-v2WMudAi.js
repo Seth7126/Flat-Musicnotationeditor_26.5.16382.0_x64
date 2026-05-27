@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="1af2b66e-a7f0-46c1-8850-ee5bcfae1986",e._sentryDebugIdIdentifier="sentry-dbid-1af2b66e-a7f0-46c1-8850-ee5bcfae1986")}catch{}})();var a=72,t=25.4,r=40,f=4;function d(e){return e/a*t}var s={pointsToMms:d,POINTS_BY_INCH:a,MM_PER_INCH:t,TENTH_PER_EM:r,SP_PER_EM:f};export{s as t};
+
+//# sourceMappingURL=PrintRatios-v2WMudAi.js.map

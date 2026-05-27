@@ -1,0 +1,3 @@
+import{r}from"./rolldown-runtime-mFd2d86E.js";import{t}from"./createVueComponent-wHKX9xjx.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},f=new e.Error().stack;f&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[f]="751270f0-f1b4-44cf-960f-faf4cbb5f3ef",e._sentryDebugIdIdentifier="sentry-dbid-751270f0-f1b4-44cf-960f-faf4cbb5f3ef")}catch{}})();var n=r({default:()=>l}),l=t("userFill24",{xmlns:"http://www.w3.org/2000/svg",width:"24",height:"24",viewBox:"0 0 24 24",fill:"currentcolor"},[["circle",{cx:"12",cy:"7.2",r:"3.2"}],["ellipse",{cx:"12",cy:"16",rx:"5.6",ry:"3.2"}]]);export{n,l as t};
+
+//# sourceMappingURL=user-fill24-CsSbrbno.js.map

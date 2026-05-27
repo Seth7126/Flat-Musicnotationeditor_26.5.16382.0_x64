@@ -1,0 +1,3 @@
+import{GE as t}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="4e6d72bd-e85e-4a69-8834-e8acba0cf392",e._sentryDebugIdIdentifier="sentry-dbid-4e6d72bd-e85e-4a69-8834-e8acba0cf392")}catch{}})();var n=!1,r=null;function c(){return r===null&&(r=l()),r}function l(){if(n)return!0;const e=new URLSearchParams(window.location.search).get("newPlaybackCtrl");if(e==="true")return!0;if(e==="false")return!1;const{isEnabled:a}=t();return a("editor.new-playback-ctrl")}export{c as t};
+
+//# sourceMappingURL=useNewPlaybackCtrl-CfY-_t-n.js.map

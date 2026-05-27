@@ -1,0 +1,3 @@
+import{Kc as t}from"./vue-data-BfauxDF1.js";(function(){try{var n=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new n.Error().stack;e&&(n._sentryDebugIds=n._sentryDebugIds||{},n._sentryDebugIds[e]="3fd45062-9201-4ab5-ba00-66383fa4fef0",n._sentryDebugIdIdentifier="sentry-dbid-3fd45062-9201-4ab5-ba00-66383fa4fef0")}catch{}})();var a={1:"1.questions",2:"2.plan",3:"3.checkout"};async function r(n){await t.pushAndForget({event:{type:"action",name:"ui.onboarding",properties:{onboardingStep:a[n]||`unknown:${n}`}}})}async function d(n,e){await t.pushAndForget({event:{type:"action",name:n,properties:e}})}export{r as n,d as t};
+
+//# sourceMappingURL=onboardingAnalytics-C54332ZZ.js.map

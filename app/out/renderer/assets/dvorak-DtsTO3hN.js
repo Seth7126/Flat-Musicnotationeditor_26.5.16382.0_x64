@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},y=new e.Error().stack;y&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[y]="3ed6c15b-b318-4926-8824-253eb0d8c41c",e._sentryDebugIdIdentifier="sentry-dbid-3ed6c15b-b318-4926-8824-253eb0d8c41c")}catch{}})();var K={KeyQ:"'",KeyW:",",KeyE:".",KeyR:"p",KeyT:"y",KeyY:"f",KeyU:"g",KeyI:"c",KeyO:"r",KeyP:"l",KeyS:"o",KeyD:"e",KeyF:"u",KeyG:"i",KeyH:"d",KeyJ:"h",KeyK:"t",KeyL:"n",Semicolon:"s",KeyZ:";",KeyX:"q",KeyC:"j",KeyV:"k",KeyB:"x",KeyN:"b",Comma:"w",Period:"v",Slash:"z",Minus:"[",Equal:"]",BracketLeft:"/",BracketRight:"=",Quote:"-"};export{K as default};
+
+//# sourceMappingURL=dvorak-DtsTO3hN.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="ef8b8092-c5ee-4673-bfc8-592d5b084080",e._sentryDebugIdIdentifier="sentry-dbid-ef8b8092-c5ee-4673-bfc8-592d5b084080")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=msteams-pun-MaWr.js.map

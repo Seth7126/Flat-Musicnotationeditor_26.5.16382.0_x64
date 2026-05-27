@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="38109823-e85a-415a-96d6-30a9b91e3166",e._sentryDebugIdIdentifier="sentry-dbid-38109823-e85a-415a-96d6-30a9b91e3166")}catch{}})();const s=require("./main-D_Q6PttS.js"),t=require("./TransportProvider-nA_tbfpV.js"),n=require("./operations-3RyQrDAm.js");var a={list:n.createOperation("listFonts",()=>t.getTransport().get(`${t.getTransport().apiv2baseurl}/fonts`))};exports.default=a;
+
+//# sourceMappingURL=fonts-GlllrTyK.js.map

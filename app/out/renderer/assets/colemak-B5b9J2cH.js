@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},y=new e.Error().stack;y&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[y]="de63e250-11c1-4abc-98f5-a162da8e455f",e._sentryDebugIdIdentifier="sentry-dbid-de63e250-11c1-4abc-98f5-a162da8e455f")}catch{}})();var n={KeyE:"f",KeyR:"p",KeyT:"g",KeyY:"j",KeyU:"l",KeyI:"u",KeyO:"y",KeyP:";",KeyS:"r",KeyD:"s",KeyF:"t",KeyG:"d",KeyJ:"n",KeyK:"e",KeyL:"i",Semicolon:"o",KeyN:"k"};export{n as default};
+
+//# sourceMappingURL=colemak-B5b9J2cH.js.map

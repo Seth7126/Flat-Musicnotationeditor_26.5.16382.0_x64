@@ -1,0 +1,3 @@
+import{r as o}from"./rolldown-runtime-mFd2d86E.js";import{t}from"./createVueComponent-wHKX9xjx.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="3353b151-ee61-4860-ae72-dfe913f8b6bb",e._sentryDebugIdIdentifier="sentry-dbid-3353b151-ee61-4860-ae72-dfe913f8b6bb")}catch{}})();var n=o({default:()=>a}),a=t("sharesocial16",{xmlns:"http://www.w3.org/2000/svg",width:"16",height:"16",viewBox:"0 0 16 16",fill:"currentcolor"},[["g",{"fill-rule":"evenodd","clip-rule":"evenodd",opacity:".9"}]]);export{n,a as t};
+
+//# sourceMappingURL=sharesocial16-CfrVgujZ.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="d4d27350-3a1c-4998-8477-4e7ad7e744b1",e._sentryDebugIdIdentifier="sentry-dbid-d4d27350-3a1c-4998-8477-4e7ad7e744b1")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=msteams-CJaeZTKI.js.map

@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="9580351b-3727-42ea-b263-507cfd5d2398",e._sentryDebugIdIdentifier="sentry-dbid-9580351b-3727-42ea-b263-507cfd5d2398")}catch{}})();function t(){return new Worker(new URL(""+new URL("AdagioToMxl.worker-CIMR3yTn.js",import.meta.url).href,""+import.meta.url),{type:"module",name:"musicxml-export-worker"})}export{t as default};
+
+//# sourceMappingURL=getMxlWorkerVite-tdL2Lkl_.js.map

@@ -1,0 +1,3 @@
+import{XE as n}from"./vue-data-BfauxDF1.js";(function(){try{var t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new t.Error().stack;e&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[e]="c2d84f25-c31c-4217-85f4-33fb99439529",t._sentryDebugIdIdentifier="sentry-dbid-c2d84f25-c31c-4217-85f4-33fb99439529")}catch{}})();async function s(){const t=n(),e=await window.flatDesktopAPI.getBootData().catch(()=>null);return e&&(window.flatSettings.boot=e,window.flatSettings.loggeduser=e.user),e?.user&&t.setAccountData(e.user),window.flatDesktopAPI.onAccountUpdated(o=>{o.user?t.setAccountData(o.user):t.clearAccount()})}export{s as initDesktopAccount};
+
+//# sourceMappingURL=initDesktopAccount-DoB2TEeT.js.map

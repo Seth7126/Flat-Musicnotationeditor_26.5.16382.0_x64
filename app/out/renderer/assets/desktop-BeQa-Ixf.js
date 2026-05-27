@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="7644c4ac-d947-4ba5-a82a-6eab77eb0928",e._sentryDebugIdIdentifier="sentry-dbid-7644c4ac-d947-4ba5-a82a-6eab77eb0928")}catch{}})();var n={};export{n as default};
+
+//# sourceMappingURL=desktop-BeQa-Ixf.js.map

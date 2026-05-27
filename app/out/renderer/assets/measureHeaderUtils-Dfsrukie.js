@@ -1,0 +1,3 @@
+import{n as t}from"./rolldown-runtime-mFd2d86E.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="aa6ff120-d323-41e0-89a8-b23c015a008e",e._sentryDebugIdIdentifier="sentry-dbid-aa6ff120-d323-41e0-89a8-b23c015a008e")}catch{}})();function d(e){return{uuid:e}}function i(e,n){e.uuid=n}function u(e){return e.uuid}function a(e){return typeof e.uuid<"u"}var r,o=t((()=>{r={create:d,setUuid:i,getUuid:u,hasUuid:a}}));export{r as n,o as t};
+
+//# sourceMappingURL=measureHeaderUtils-Dfsrukie.js.map

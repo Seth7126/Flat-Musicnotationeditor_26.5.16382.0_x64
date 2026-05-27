@@ -1,0 +1,3 @@
+(function(){try{var t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new t.Error().stack;e&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[e]="6f78063e-71e6-4f02-af94-741117a51d19",t._sentryDebugIdIdentifier="sentry-dbid-6f78063e-71e6-4f02-af94-741117a51d19")}catch{}})();function f(t){const e=t.result.bbox,n=t.elem,i=e.maxX-e.minX,o=e.maxY-e.minY,d=e.minX+n.getBoundingClientRect().x,s=e.minY+n.getBoundingClientRect().y;return{getBoundingClientRect:()=>({x:d,y:s,width:i,height:o,top:s,right:d+i,bottom:s+o,left:d}),clientWidth:i,clientHeight:o}}export{f as t};
+
+//# sourceMappingURL=getPopperTargetFromPositionResult-lPwIi5ol.js.map

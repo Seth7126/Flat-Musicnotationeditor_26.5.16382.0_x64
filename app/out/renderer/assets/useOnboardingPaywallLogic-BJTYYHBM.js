@@ -1,0 +1,3 @@
+import{C as t,xj as f}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="eea3f7a2-74a0-423d-8d5c-127f48808f95",e._sentryDebugIdIdentifier="sentry-dbid-eea3f7a2-74a0-423d-8d5c-127f48808f95")}catch{}})();var l=()=>{const e=f(!1),a=f(!1),r=f(!1),s=new t;async function n(){try{await s.fetchAllIndivOffers(),e.value=!1}catch{e.value=!1,a.value=!0}}return{loading:e,error:a,disabled:r,fetchOffers:n}};export{l as t};
+
+//# sourceMappingURL=useOnboardingPaywallLogic-BJTYYHBM.js.map

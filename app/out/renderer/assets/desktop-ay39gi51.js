@@ -1,0 +1,3 @@
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="ee61eeb2-8255-4377-86bd-a64c525b41c0",e._sentryDebugIdIdentifier="sentry-dbid-ee61eeb2-8255-4377-86bd-a64c525b41c0")}catch{}})();var t={};export{t as default};
+
+//# sourceMappingURL=desktop-ay39gi51.js.map

@@ -1,0 +1,3 @@
+import{dO as c,lO as i,pO as b,uO as f}from"./vue-data-BfauxDF1.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="2fb5cb6c-73da-4477-9e9c-1d65131de47c",e._sentryDebugIdIdentifier="sentry-dbid-2fb5cb6c-73da-4477-9e9c-1d65131de47c")}catch{}})();var u=100;function m(e,d){const n=i(),s=f();if(!n)return;const{beforeBreadcrumb:t=null,maxBreadcrumbs:o=u}=n.getOptions();if(o<=0)return;const a={timestamp:c(),...e},r=t?b(()=>t(a,d)):a;r!==null&&(n.emit&&n.emit("beforeAddBreadcrumb",r,d),s.addBreadcrumb(r,o))}export{m as t};
+
+//# sourceMappingURL=breadcrumbs-D2L8vWBl.js.map
